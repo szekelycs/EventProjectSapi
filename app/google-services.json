@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "557826124940",
+    "firebase_url": "https://eventprojectsapi.firebaseio.com",
+    "project_id": "eventprojectsapi",
+    "storage_bucket": "eventprojectsapi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557826124940:android:4420b988290c89b2",
+        "android_client_info": {
+          "package_name": "ro.sapientia.ms.example.csongoresbobo.eventprojectsapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557826124940-lr2p1hmvd8akjdu149620paknbfc94ga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ro.sapientia.ms.example.csongoresbobo.eventprojectsapi",
+            "certificate_hash": "76025e01e8dea46f34bbe1506cf793eb3f26601b"
+          }
+        },
+        {
+          "client_id": "557826124940-iv8dim6ieu816nqlud3992in65d8qokp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB88q1mANZyuZVRrO83Z1_2tJ8OqPcYWlk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557826124940-iv8dim6ieu816nqlud3992in65d8qokp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
